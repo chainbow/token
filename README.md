@@ -1,5 +1,5 @@
 
- # Torus Ethereum SmartContract
+ # ChainBow.io Ethereum SmartContract
  
  This is the code for the Ethereum SmartContract responsible for [ChainBow.io](https://chainbow.io/).
  
