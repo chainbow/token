@@ -1,6 +1,5 @@
 
  # ChainBow.io Ethereum SmartContract
- # tracer for node.js 
 
 [![Build Status](https://secure.travis-ci.org/chainbow/token.png)](http://travis-ci.org/chainbow/token)
 
