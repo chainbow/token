@@ -1,6 +1,9 @@
 
  # ChainBow.io Ethereum SmartContract
- 
+ # tracer for node.js 
+
+[![Build Status](https://secure.travis-ci.org/chainbow/token.png)](http://travis-ci.org/chainbow/token)
+
  This is the code for the Ethereum SmartContract responsible for [ChainBow.io](https://chainbow.io/).
  
  
